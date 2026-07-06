@@ -4,4 +4,4 @@
 
 - python3 mergeLinux.py --pathGet RUTA_DONDE EXTRAER --pathSafe RUTA_DONDE_GUARDAR
 
-- Recordar configurar MangoHub en opciones de lanzamiento de Steam
+- Recordar configurar MangoHub en opciones de lanzamiento de Steam: mangohud %command%
