@@ -30,6 +30,6 @@ Use este script para corregir fallos que se presentaron en los archivos provenie
 
 WinJobMemory.ps1
 
-Delimita la cantidad de memoria ram a la que tiene acceso un proceso o este caso steam
+Delimita la cantidad de memoria ram a la que tiene acceso un proceso o en este caso steam
 
 powershell -ExecutionPolicy Bypass -File .\WinJobMemory.ps1 -MemoryLimitMB 3600 
