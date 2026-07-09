@@ -1,3 +1,8 @@
+# Script generado por chatGPT con el objetivo de limitar 
+# la ram de un proceso y sus hijos en windows
+# Me cago en windows, obvio que no iba a tener
+# algo semejante a cgroups
+
 param(
     [int]$MemoryLimitMB = 3600,
 
